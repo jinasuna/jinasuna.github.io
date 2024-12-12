@@ -11,8 +11,8 @@ paginate_path:       "/page:num/"
 # About/contact
 author:
   name:              Mark Otto
-  url:               "https://someblog"
-  email:             markdotto@gmail.com
+  url:               https://someblog
+  email:             ksn0325@nate.com
 
 # Gems
 plugins:
